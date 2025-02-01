@@ -1,4 +1,4 @@
-<h1 style="text-align:center">CLP-01<h1>
+<h1>CLP-01<h1>
 
 <h2>Problem Description and Output</h2>
 
@@ -10,5 +10,13 @@ set of numbers.</h2>
 <p><strong>Example Output:</strong></p>
 <pre>Sum of Even: 56</pre>
 <pre>Sum of Odd: 64</pre>
+
+
+<h2 id="smallest-number">02. Write a Python program to find the smallest number from a set of
+numbers.</h2>
+<p>This program identifies the smallest number from a given list.</p>
+<pre>Smallest Number is 1</pre>
+
+
 
 
