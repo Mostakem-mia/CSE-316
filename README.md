@@ -15,6 +15,9 @@ set of numbers.</h2>
 <h2 id="smallest-number">02. Write a Python program to find the smallest number from a set of
 numbers.</h2>
 <p>This program identifies the smallest number from a given list.</p>
+<p><strong>Example Input:</strong></p>
+<pre>list: [5,4,3,4,2,1,9,8,7]</pre>
+<p><strong>Example Output:</strong></p>
 <pre>Smallest Number is 1</pre>
 
 
