@@ -73,7 +73,7 @@ It uses a simple conditional statement to compare both values and prints the lar
 <pre>Largest number is: 15</pre>
 
 
-<h2 id="sum-parameters">Write a Python program to find the sum of the numbers passed as
+<h2 id="sum-parameters">08. Write a Python program to find the sum of the numbers passed as
 parameters.</h2>
 <p>This program takes two user-inputted numbers, adds them together, and prints the sum.
 It demonstrates the use of function parameters and basic arithmetic operations.</p>
