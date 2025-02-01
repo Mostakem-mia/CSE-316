@@ -1,4 +1,4 @@
-<h1 style="text-align:center">CLP-01/h1>
+<h1 style="text-align:center">CLP-01<h1>
 
 <h2>Problem Description and Output</h2>
 
