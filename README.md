@@ -60,3 +60,14 @@ For example, the first 6 terms are: 0, 1, 1, 2, 3, 5.</p>
 <pre>Enter the number of terms: 6</pre>
 <p><strong>Example Output:</strong></p>
 <pre>Fibonacci numbers: 0 1 1 2 3 5</pre>
+
+
+<h2 id="largest-number">07. Write a python program to find the largest number between two
+numbers using function</h2>
+<p>This program takes two numbers as input and determines which one is larger.
+It uses a simple conditional statement to compare both values and prints the larger number.</p>
+<p><strong>Example Input:</strong></p>
+<pre>Input 1st number: 15</pre>
+<pre>Input 2nd number: 9</pre>
+<p><strong>Example Output:</strong></p>
+<pre>Largest number is: 15</pre>
