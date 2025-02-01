@@ -62,7 +62,7 @@ For example, the first 6 terms are: 0, 1, 1, 2, 3, 5.</p>
 <pre>Fibonacci numbers: 0 1 1 2 3 5</pre>
 
 
-<h2 id="largest-number">07. Write a python program to find the largest number between two
+<h2 id="largest-number">07. Write a Python program to find the largest number between two
 numbers using function</h2>
 <p>This program takes two numbers as input and determines which one is larger.
 It uses a simple conditional statement to compare both values and prints the larger number.</p>
@@ -71,3 +71,14 @@ It uses a simple conditional statement to compare both values and prints the lar
 <pre>Input 2nd number: 9</pre>
 <p><strong>Example Output:</strong></p>
 <pre>Largest number is: 15</pre>
+
+
+<h2 id="sum-parameters">Write a Python program to find the sum of the numbers passed as
+parameters.</h2>
+<p>This program takes two user-inputted numbers, adds them together, and prints the sum.
+It demonstrates the use of function parameters and basic arithmetic operations.</p>
+<p><strong>Example Input:</strong></p>
+<pre>Input 1st number: 8</pre>
+<pre>Input 2nd number: 12</pre>
+<p><strong>Example Output:</strong></p>
+<pre>Sum of the numbers is: 20</pre>
