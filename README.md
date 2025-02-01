@@ -33,7 +33,7 @@ It iterates through the range, checks each number's divisibility conditions, and
 <pre>Total Sum: 735</pre>
 
 
-<h2 id="second-highest">04. Write a python program to find the second-highest number from a set of
+<h2 id="second-highest">04. Write a Python program to find the second-highest number from a set of
 numbers.</h2>
 <p>
 This program determines both the highest and second-highest numbers in a given list.
@@ -46,5 +46,14 @@ It first sorts the list in descending order and then picks the first and second 
 <pre>Second Highest Number is 8</pre>
 
 
-
+<h2 id="factorial">05. Write a Python program to find the factorial of a number using for loop.</h2>
+<p>
+This program calculates the factorial of a user-inputted number using a loop.
+The factorial of a number (n!) is the product of all positive integers up to that number.
+For example, 4! = 4 × 3 × 2 × 1 = 24.
+</p>
+<p><strong>Example Input:</strong></p>
+<pre>Enter any positive integer number: 5</pre>
+<p><strong>Example Output:</strong></p>
+<pre>The factorial of 5 is: 120</pre>
 
