@@ -87,8 +87,8 @@ None  15
 <h2 id="matplotlib-line-graph">9. Matplotlib: Line Graph of Temperature Variations Over a Week</h2>
 <p>This program plots a line graph that visualizes temperature changes throughout the week, showing fluctuations and trends over time.</p>
 <p><strong>Example Output:</strong></p>
-![Project Logo](images/1.png)
 
+ <img src="images/9.png" alt="list" width="500">
 
 <h2 id="matplotlib-bar-chart">10. Matplotlib: Bar Chart Comparing Sales Revenue Across Regions</h2>
 <p>This program creates a bar chart comparing sales revenue in different regions.</p>
