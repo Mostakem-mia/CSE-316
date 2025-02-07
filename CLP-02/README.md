@@ -95,5 +95,9 @@ None  15
 
 <h2 id="matplotlib-bar-chart">10. Matplotlib: Bar Chart Comparing Sales Revenue Across Regions</h2>
 <p>This program creates a bar chart comparing sales revenue in different regions.</p>
+<p><strong>Example Input:</strong></p>
+<pre>regions = ["North", "South", "East", "West"];
+revenues = [50000, 60000, 45000, 70000];</pre>
 <p><strong>Example Output:</strong></p>
-<pre>A bar chart showing sales revenue for North, South, East, and West regions.</pre>
+ <img src="images/10.png" alt="list" width="500">
+
