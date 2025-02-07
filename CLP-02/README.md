@@ -85,5 +85,5 @@ temps = [31, 34, 33, 29, 28, 27, 26]</pre>
 <pre>regions = ["North", "South", "East", "West"]
 revenues = [50000, 60000, 45000, 70000]</pre>
 <p><strong>Example Output:</strong></p>
- <img src="images/10.png" alt="list" width="500"></pre>
+ <pre><img src="images/10.png" alt="list" width="500"></pre>
 
