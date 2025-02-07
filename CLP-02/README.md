@@ -8,7 +8,7 @@ It ensures that each number appears only once and organizes them in increasing o
 <p><strong>Example Input:</strong></p>
 <pre>list: [1,4,5,2,5,2,1,7,6,5,8,8,9]</pre>
 <p><strong>Example Output:</strong></p>
- <img src="images/1.png" alt="list" width="500">
+ <pre><img src="images/1.png" alt="list" width="500"></pre>
 
 <h2 id="set-common-elements">2. Set: Find Common Elements Between Two Lists</h2>
 <p>This program identifies the common numbers between two lists using Python sets. 
