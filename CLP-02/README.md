@@ -70,13 +70,13 @@ B        600
 C       1050</pre>
 
 <h2 id="pandas-missing-values">8. Pandas: Fill Missing Values with Column-wise Means</h2>
-<p>This program fills missing values (NaN) in a dataset by replacing them with the mean of their respective columns.</p>
+<p>This program fills missing values (None) in a dataset by replacing them with the mean of their respective columns.</p>
 <p><strong>Example Input:</strong></p>
 <pre> A     B
-10   50
-20  None
-None 15
-40   10</pre>
+10    50
+20   None
+None  15
+40    10</pre>
 <p><strong>Example Output:</strong></p>
 <pre> A     B
 10.0  50.0
