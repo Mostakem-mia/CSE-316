@@ -35,7 +35,7 @@ list2: [3, 4, 5, 6, 7]</pre>
 <h2 id="numpy-matrix-sum">5. NumPy: Generate a 5x5 Matrix and Compute Row-wise Sums</h2>
 <p>This program generates a 5x5 matrix with random numbers and computes the sum of each row separately.</p>
 <p><strong>Example Output:</strong></p>
- <pre><img src="images/5.png" alt="list" width="500">
+ <pre><img src="images/5.png" alt="list" width="500"></pre>
 
 <h2 id="numpy-normalize">6. NumPy: Normalize an Array of 100 Random Values</h2>
 <p>This program generates 100 random values and normalizes them between 0 and 1 using min-max normalization.</p>
