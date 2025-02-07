@@ -86,6 +86,9 @@ None  15
 
 <h2 id="matplotlib-line-graph">9. Matplotlib: Line Graph of Temperature Variations Over a Week</h2>
 <p>This program plots a line graph that visualizes temperature changes throughout the week, showing fluctuations and trends over time.</p>
+<p><strong>Example Input:</strong></p>
+<pre>days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]</pre>
+<pre>temps = [31, 34, 33, 29, 28, 27, 26]</pre>
 <p><strong>Example Output:</strong></p>
 
  <img src="images/9.png" alt="list" width="500">
