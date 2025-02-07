@@ -78,17 +78,13 @@ C       1050</pre>
 None  15
 40    10</pre>
 <p><strong>Example Output:</strong></p>
-<pre> A     B
-10.0  50.0
-20.0  25.0
-23.3  15.0
-40.0  10.0</pre>
+ <img src="images/8.png" alt="list" width="500">
 
 <h2 id="matplotlib-line-graph">9. Matplotlib: Line Graph of Temperature Variations Over a Week</h2>
 <p>This program plots a line graph that visualizes temperature changes throughout the week, showing fluctuations and trends over time.</p>
 <p><strong>Example Input:</strong></p>
-<pre>days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]</pre>
-<pre>temps = [31, 34, 33, 29, 28, 27, 26]</pre>
+<pre>days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+temps = [31, 34, 33, 29, 28, 27, 26]</pre>
 <p><strong>Example Output:</strong></p>
 
  <img src="images/9.png" alt="list" width="500">
@@ -96,8 +92,8 @@ None  15
 <h2 id="matplotlib-bar-chart">10. Matplotlib: Bar Chart Comparing Sales Revenue Across Regions</h2>
 <p>This program creates a bar chart comparing sales revenue in different regions.</p>
 <p><strong>Example Input:</strong></p>
-<pre>regions = ["North", "South", "East", "West"];
-revenues = [50000, 60000, 45000, 70000];</pre>
+<pre>regions = ["North", "South", "East", "West"]
+revenues = [50000, 60000, 45000, 70000]</pre>
 <p><strong>Example Output:</strong></p>
  <img src="images/10.png" alt="list" width="500">
 
