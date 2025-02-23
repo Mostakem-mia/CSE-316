@@ -21,7 +21,7 @@
 <ol>1. The program displays the generated grid.</ol>
 <ol>2. It prints the randomly chosen source and goal positions.</ol>
 <ol>3. If a valid path is found, it prints the sequence of moves taken, the number of moves required to reach the goal and prints topological order.</ol>
-<p><strong>Example Input:</strong></p>
-<pre>list: [1,4,5,2,5,2,1,7,6,5,8,8,9]</pre>
+<p><strong>Example Randomly Generated Input:</strong></p>
+<pre><img src="Images/input.png" alt="list" width="500"></pre>
 <p><strong>Example Output:</strong></p>
- <pre><img src="images/1.png" alt="list" width="500"></pre>
+ <pre><img src="Images/output.png" alt="list" width="500"></pre>
