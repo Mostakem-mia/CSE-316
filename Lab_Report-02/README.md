@@ -2,7 +2,7 @@
 
 <h2>Code Description and Output</h2>
 
-<h2 id="iddfs-maze">PROBLEM: You are given a 2D grid representing a maze, where each cell is either an empty space (0) or a wall (1). Your task is to implement a Python program that uses Iterative Deepening Depth-First Search (IDDFS) to determine whether a valid path exists from a given start cell to a specified target cell. You may move up, down, left, or right to adjacent empty cells, but you cannot pass through walls, and each cell may be visited only once during a single path exploration.</h2>
+<h3 id="iddfs-maze">PROBLEM: You are given a 2D grid representing a maze, where each cell is either an empty space (0) or a wall (1). Your task is to implement a Python program that uses Iterative Deepening Depth-First Search (IDDFS) to determine whether a valid path exists from a given start cell to a specified target cell. You may move up, down, left, or right to adjacent empty cells, but you cannot pass through walls, and each cell may be visited only once during a single path exploration.</h3>
 <p>This Python program uses Iterative Deepening Depth-First Search (IDDFS) to determine whether a valid path exists between a given start and target cell in a 2D grid maze. It explores paths by incrementally increasing the depth limit until a solution is found or the maximum depth is reached.</p>
 
 <p><strong>Key Features:</strong></p>
