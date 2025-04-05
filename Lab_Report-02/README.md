@@ -26,22 +26,38 @@
   <li>If no path exists within the max depth, it prints a failure message.</li>
 </ol>
 
-<p><strong>Example Input:</strong></p>
+<p><strong>Example Input:(Case 01)</strong></p>
 <pre>
 4 4
 0 0 1 0
 1 0 1 0
 0 0 0 0
 1 1 0 1
-Start: 0 0
-Target: 2 3
+Enter start position (row col): 0 0
+Enter goal position (row col): 2 3
 </pre>
 
-<p><strong>Example Output:</strong></p>
+<p><strong>Example Output:(Case 01)</strong></p>
 <pre>
 Path found at depth 5 using IDDFS
-Traversal Order: [(0,0), (1,0), (1,1), (0,1), (2,1), (2,2), (2,3)]
+Traversal Order: [(0,0), (0,1), (1,1), (2,1), (2,2), (2,3)]
 </pre>
+
+<p><strong>Example Input:(Case 02)</strong></p>
+<pre>
+3 3
+0 1 0
+0 1 0
+0 1 0
+Enter start position (row col): 0 0
+Enter goal position (row col): 2 2
+</pre>
+
+<p><strong>Example Output:(Case 02)</strong></p>
+<pre>
+No path found within maximum depth limit of 9 using IDDFS
+</pre>
+
 
 <hr>
 
