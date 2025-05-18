@@ -44,8 +44,8 @@ Ridwanur
         <h2>Installation</h2>
         <p>1. Clone the repository:</p>
         <div class="code-block">
-            git clone https://github.com/codesWithRifat/Disaster_Response_System.git<br>
-            cd disaster-response-system
+            git clone https://github.com/Mostakem-mia/CSE-316/tree/main/Disaster-Response-System.git <br>
+            cd Disaster-Response-System
         </div><br>
         <p>2. Install required dependencies:</p>
         <div class="code-block">
