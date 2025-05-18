@@ -82,11 +82,11 @@ Ridwanur
         <h2>Results</h2>
         <div class="results-gallery">
            <h3>BFS algorithm finding victims</h3>
-            <img src="bfs.png">
+            <img src="bfs.jpeg">
           <h3>A* algorithm finding shortest path</h3>
-            <img src="astar.png">
+            <img src="astar.jpeg">
           <h3>Kmeans algorithm finding priority zone</h3>
-            <img src="kmeans.png">
+            <img src="kmeans.jpeg">
         </div>
         <p><strong>Key findings:</strong></p>
         <ul>
